@@ -5,4 +5,4 @@
 
 ## Third Party Acknowledgement
 
-Distribution includes an OVMF efi for VMs, see [LICENSE](ovmf-x64/LICENSE), for more detail see [README](ovmf-x64/README)
+Distribution includes an OVMF efi for VMs, see [ovmf-x64/LICENSE](ovmf-x64/LICENSE), for more detail see [ovmf-x64/README](ovmf-x64/README)
