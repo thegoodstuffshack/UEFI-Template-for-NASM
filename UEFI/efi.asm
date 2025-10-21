@@ -85,7 +85,7 @@ section .text follows=.header
     NULL equ 0
 
 start:
-    and rsp, 0xFFFFFFFFFFFF0000 ; align to 64 bit
+    and esp, 0xFFFFFFF0 ; align
 
     ; values given by UEFI
     mov [EFI_Handle], rcx
